@@ -4,6 +4,6 @@ func bar(foo string) string {
 	return foo + " bar"
 }
 
-func oldFunc() {
+func newFunc() {
 	// This is an old function
 }
